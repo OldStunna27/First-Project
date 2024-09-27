@@ -114,7 +114,7 @@
 }
 
 .para{
-    background-color: white;
+    background-color: #fefef7;
     padding: 50px;
     border-radius: 10px;
     box-shadow: 20px;
@@ -186,9 +186,6 @@
 
 }
 
-.buynowlink{
-
-}
 
 .buynowlink button{
     border-radius: 10px;
@@ -210,20 +207,6 @@
 }
 .better{
     font-weight: bold;
-}
-
-
-.buynowlink a{
-
-}
-
-
-.differentcards{
-
-}
-
-..differentcards img{
-    
 }
 
 .thebottom{
@@ -348,9 +331,13 @@
         margin-left: -280px;
     }
 
+    .intro1{
+        margin-left: -20px;
+    }
+
     .validatecard img{
         width: 300px;
-        margin-left: -40px;
+        margin-left: 20px;
         margin-top: -70px;
     }
 
@@ -361,12 +348,14 @@
 
     .validateyourcard h4{
         margin-top: -20px;
-        font-weight: bold;
+        font-weight: light;
+        margin-left: -40px;
         
     }
     .allinone h5{
         font-size: 30px;
-        font-weight: lighter;
+        font-weight: bold;
+        margin-left: -50px;
     }
 
 
@@ -481,8 +470,9 @@
         color: white;
     }
     .giftbin{
-        margin-top: 60px;
-        margin-left: 20px;
+        margin-top: 70px;
+        margin-left: 30px;
+        
 
     }
 
@@ -493,8 +483,8 @@
     }
 
     .giftbin2{
-        margin-top: 30px;
-        margin-left: 40px;
+        margin-top: 40px;
+        margin-left: 60px;
     }
     .giftbin2 h6{
         color: white;
