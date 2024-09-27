@@ -1,0 +1,507 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.texth1{
+    
+}
+.texth1 h1{
+    font-size: 70px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    display: flex;
+
+    
+}
+
+.texth2{
+    margin-top: 50px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.texth2 h2{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.backgroundc{
+    background-color: #3291ef;
+    padding: 30px;
+    display: flex;
+}
+.gift{
+    margin-top: 120px;
+    margin-left: 150px;
+
+}
+
+.validategift button{
+    border-radius: 10px;
+    background-color: rgb(55, 51, 51);
+    color: whitesmoke;
+    font-size: 18px;
+    border: none;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.validategift button:hover{
+    border: whitesmoke;
+    background-color: white;
+
+}
+
+
+.validategift a{
+    color: white;
+    border: none;
+    text-decoration: none;
+
+}
+.validategift a:hover{
+    color: black;
+    border-bottom: none;
+    text-decoration: none;
+    font-size: 18.5px;
+    
+}
+.bigbutton{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.intro1 h3{
+    font-size: 20px;
+    margin-left: 50px;
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+.validatecard{
+    margin-top: 30px;
+}
+.validatecard img{
+    width: 600px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.validateyourcard h4{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+    margin-top: -25px;
+    font-size: 18px;
+
+}
+.allinone{
+    margin-top: 20px;
+    
+    font-weight: bold;
+    margin-left: 10px;
+}
+.allinone h5{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.para{
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 20px;
+}
+.landing_page{
+    display: flex;
+}
+
+.landing_flex{
+    margin-left: 210px;
+
+
+}
+.myform{
+    margin-top: -350px;
+    margin-left: 750px;
+    margin-right: 100px;
+
+}
+
+.newdiv{
+    
+    border-bottom: 1px solid rgb(21, 19, 19); /* Bottom border */
+    width: 80%; /* Full width of the container */
+    margin-top: 40px; /* Add some space above */
+    margin-left: 40px;
+
+}
+
+.bottomflex{
+    display: flex;
+}
+.footerintro{
+    padding: 70px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+}
+.buyyourcard{
+    margin-top: -35px;
+}
+
+.buyyourcard h5{
+    color: #3291ef;
+    
+}
+
+.buydirectly{
+    margin-top: 20px;
+    font-size: 40px;
+    margin-right: 100px;
+
+}
+
+
+.buydirectly h5{
+    font-size: 55px;
+    font-family: sans-serif;
+    
+}
+
+.buygiftdelivered{
+    margin-top: 40px;
+    margin-right: 200px;
+}
+
+.buygiftdelivered h5{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.buynowlink{
+
+}
+
+.buynowlink button{
+    border-radius: 10px;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 18px;
+    border: none;
+    padding: 10px;
+    margin-top: 30px;
+
+}
+
+.buynowlink a{
+    color: white;
+    text-decoration: none;
+}
+.secure{
+    font-weight: bold;
+}
+.better{
+    font-weight: bold;
+}
+
+
+.buynowlink a{
+
+}
+
+
+.differentcards{
+
+}
+
+..differentcards img{
+    
+}
+
+.thebottom{
+    padding: 40px;
+    background-color: #0f1621;
+    height: 70vh;
+}
+
+.join{
+    margin-left: -20px;
+}
+
+.join h6{
+    font-size: 40px;
+    color: white;
+}
+
+.enjoy{
+    margin-top: 35px;
+    margin-left: -20px;
+}
+
+.enjoy h6{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    
+}
+.join{
+    margin-left: 90px;
+}
+.join h6{
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.join1{
+    margin-left: 90px;
+}
+.join1 h6{
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.join2{
+    margin-left: 90px;
+}
+
+.join2 h6{
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.enjoy{
+    margin-left: 90px;
+    margin-right: 200px;
+}
+.enjoy h6{
+    font-size: 18px;
+}
+
+.lastbut button{
+    border-radius: 10px;
+    background-color: rgb(130, 130, 236);
+    font-size: 18px;
+    border: none;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.lastbut button a{
+    text-decoration: none;
+    border-bottom: none;
+    color: white;
+}
+.giftbin{
+    margin-top: 80px;
+    margin-left: 95px;
+}
+
+.giftbin h6{
+    color: white;
+    font-size: 16px;
+}
+
+.giftbin2{
+    margin-top: -30px;
+    margin-left: 1100px;
+}
+.giftbin2 h6{
+    color: white;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 480px){
+    .texth1 h1{
+        font-size: 40px;
+        font-family: sans-serif;
+        color: whitesmoke;
+        font-weight: bold;
+        display: flex;
+        
+        
+    }
+
+    .gift{
+        margin-top: 0px;
+        margin-left: -100px;
+        width: 100px;
+    }
+
+
+    .gift img{
+        width: 400px;
+        display: block;
+        margin-top: 400px;
+        margin-left: -280px;
+    }
+
+    .validatecard img{
+        width: 300px;
+        margin-left: -40px;
+        margin-top: -70px;
+    }
+
+    .landing_flex{
+        margin-left: -300px;
+        margin-top: 200px;
+    }
+
+    .validateyourcard h4{
+        margin-top: -20px;
+        font-weight: bold;
+        
+    }
+    .allinone h5{
+        font-size: 30px;
+        font-weight: lighter;
+    }
+
+
+    .myform{
+        margin-left: 10px;
+        margin-top: -30px;
+        margin-right: 10px;
+    }
+
+    .differentcards{
+        margin-left: -350px;
+    }
+
+    .differentcards img{
+        width: 350px;
+        margin-top: -50px;
+    }
+
+    .buyyourcard{
+       margin-bottom: 20px;
+       margin-top: 130px;
+       margin-left: -55px;
+    }
+
+    .buyyourcard h5{
+        font-size: 16px;
+        font-family: sans-serif;
+        
+    }
+
+    .buydirectly{
+        margin-left: -55px;
+    }
+
+    .buydirectly h5{
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        
+    }
+
+    .buygiftdelivered{
+        display: block;
+        margin-right: -20px;
+        margin-left: -55px;
+        margin-top: 20px;
+    }
+    .buygiftdelivered h5{
+        font-size: 17px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .buynowlink{
+        margin-left: -55px;
+        margin-top: -15px;
+    }
+    .differentcards{
+        margin-right: -45px;
+    }
+
+    .thebottom{
+        height: 80vh;
+    }
+
+    .join{
+        margin-left: -10px;
+    }
+
+    .join h6{
+        font-size: 35px;
+        font-weight: bold;
+    }
+    .join1{
+        margin-left: -10px;
+    }
+
+    .join1 h6{
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+    .join2{
+        margin-left: -10px;
+    }
+
+    .join2 h6{
+        font-size: 35px;
+        font-weight: bold;
+    }
+    .enjoy{
+        margin-left: -8px;
+        margin-right: -30px;
+    }
+
+    .enjoy h6{
+        font-size: 17px;
+        font-family: sans-serif;
+    }
+    .lastbut button{
+        border-radius: 10px;
+        background-color: rgb(130, 130, 236);
+        font-size: 16px;
+        border: none;
+        padding: 10px;
+        margin-top: 30px;
+        margin-left: -10px;
+    }
+
+    .lastbut button a{
+        text-decoration: none;
+        border-bottom: none;
+        color: white;
+    }
+    .giftbin{
+        margin-top: 60px;
+        margin-left: 20px;
+
+    }
+
+    .giftbin h6{
+        color: white;
+        font-size: 16px;
+        font-family: sans-serif;
+    }
+
+    .giftbin2{
+        margin-top: 30px;
+        margin-left: 40px;
+    }
+    .giftbin2 h6{
+        color: white;
+        font-family: sans-serif;
+    }
+
+
+
+
+}
